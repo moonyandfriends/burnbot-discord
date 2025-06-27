@@ -1,0 +1,1 @@
+worker: python strd_burn_monitor.py 
